@@ -1,0 +1,77 @@
+
+/* start - basic rules - no need to change  */
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+  position:absolute;
+}
+
+/* end - basic rules - no need to change  */
+
+
+
+#eyes1 {
+
+  position: absolute;
+  width: 150px;
+  margin-top: 174px;
+  margin-left: 122px;
+
+}
+
+
+#mouth2 {
+
+  position: absolute;
+  width:100px;
+  margin: top 32px;
+  margin-left: 36px;
+
+}
+
+#nose1{
+
+  position: absolute;
+  width: 46px;
+  margin-top: 232px;
+  margin-left: 61px;
+}
+
+
+
+#ears1 {
+  position: absolute;
+  width: 373px;
+  margin-top: 100px;
+  margin-left: -156px;
+}
+
+
+
+#hair1{     
+  position: absolute;
+  width: 298px;
+  margin-top: -20px;
+  margin-left: -164px
+}
+
+#hair2{
+
+  position: absolute;
+  width: 145px;
+  margin-top: 287px;
+  margin-left: -95px;
+
+}
+
+
+
+#hat{}
+
+#eyes2{}
+
+#nose2{}
+
+#ears2 {}
