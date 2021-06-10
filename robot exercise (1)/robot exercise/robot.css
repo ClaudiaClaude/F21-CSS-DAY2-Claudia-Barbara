@@ -67,13 +67,74 @@ img {
 
 }
 
+<<<<<<< HEAD
 #hat{}
+=======
+END - FIRST ROBOT STYLE */
 
-#eyes2{}
+#hat{
+>>>>>>> 98508d673295b83c970de16eb6783990ce0318eb
 
-#nose2{}
+  position: absolute;
+  width: 219px;
+  margin-top: -66px;
+  margin-left: -182px;
 
+
+
+}
+
+#mouth1{
+
+  position: absolute;
+  width:100px;
+  margin-top: 325px;
+  margin-left: 90px;
+
+}
+
+#eyes2{
+
+  position: absolute;
+  width: 150px;
+  margin-top: 174px;
+  margin-left: 74px;
+}
+
+#nose2{
+
+  position: absolute;
+  width: 65px;
+  margin-top: 236px;
+  margin-left: 6px;
+}
+
+#ears2 {
+
+  position: absolute;
+    width: 420px;
+    margin-top: 115px;
+    margin-left: -225px;
+}
+
+#hair1{
+
+  position: absolute;
+  width: 300;
+  margin-top: -30;
+  margin-left: -158px;
+}
+
+
+ #mouth2, #eyes1, #nose1, #ears1, #hair2{
+
+  visibility: hidden;
+
+<<<<<<< HEAD
 #ears2 {}
 
 END  FIRST ROBOT STYLE */
 
+=======
+}
+>>>>>>> 98508d673295b83c970de16eb6783990ce0318eb
