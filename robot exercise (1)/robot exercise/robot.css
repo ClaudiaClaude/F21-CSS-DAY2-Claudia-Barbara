@@ -11,6 +11,47 @@ img {
 /* end - basic rules - no need to change  */
 
 
+#eyes3 {
+
+  position: absolute;
+  width: 150px;
+  top: 174px;
+  left: 122px;
+
+}
+
+
+#mouth1{
+
+  position: absolute;
+  width:100px;
+  top: 340px;
+  left: 140px;
+
+}
+
+
+#moustache2 {
+
+  position: absolute;
+  width: 240px;
+  top: 239px;
+  left: 74px;
+}
+
+#hat{
+  position: absolute;
+  width: 286px;
+  top: 8px;
+  left: 65px
+}
+
+#mouth2, #eyes1, #eyes2, #nose1, #nose2, #ears1,#ears2, #hair1, #hair2 {
+
+  visibility: hidden;
+
+ }
+ 
 /* START-  FIRST ROBOT STYLE
 
 #eyes1 {
@@ -67,13 +108,16 @@ img {
 
 }
 
-<<<<<<< HEAD
-#hat{}
-=======
+ #mouth1, #eyes2, #nose2, #ears2, #hat {
+
+  visibility: hidden;
+
+ }
+
 END - FIRST ROBOT STYLE */
 
+/* START-  FIRST ROBOT STYLE
 #hat{
->>>>>>> 98508d673295b83c970de16eb6783990ce0318eb
 
   position: absolute;
   width: 219px;
@@ -126,15 +170,80 @@ END - FIRST ROBOT STYLE */
 }
 
 
- #mouth2, #eyes1, #nose1, #ears1, #hair2{
+
+  #mouth2, #eyes1, #nose1, #ears1, #hair2{
 
   visibility: hidden;
 
-<<<<<<< HEAD
-#ears2 {}
+ }
 
-END  FIRST ROBOT STYLE */
 
-=======
+ END - SECOND ROBOT STYLE */
+
+
+/* START-   FIX for FIRST ROBOT - correct Rule STYLE
+
+
+ #eyes1 {
+
+  position: absolute;
+  width: 150px;
+  top: 174px;
+  left: 122px;
+
 }
->>>>>>> 98508d673295b83c970de16eb6783990ce0318eb
+
+
+#mouth2 {
+
+  position: absolute;
+  width:100px;
+  top: 325px;
+  left: 152px;
+
+}
+
+#nose1{
+
+  position: absolute;
+  width: 46px;
+  top: 232px;
+  left: 177px;
+}
+
+
+
+#ears1 {
+  position: absolute;
+  width: 373px;
+  top: 100px;
+  left: 16px;
+}
+
+
+
+#hair1{     
+  position: absolute;
+  width: 298px;
+  top: -20px;
+  left: 61px
+}
+
+#hair2{
+
+  position: absolute;
+  width: 145px;
+  top: 287px;
+  left: 130px;
+
+}
+
+
+#mouth1, #eyes2, #nose2, #ears2, #hat {
+
+  visibility: hidden;
+
+ }
+
+ END - FIX for FIRST ROBOT - correct Rule STYLE */
+
